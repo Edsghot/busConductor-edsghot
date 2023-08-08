@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875640558081",
+    "project_id": "proyectobus-49a8d",
+    "storage_bucket": "proyectobus-49a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875640558081:android:45b8e023f99f191fd76600",
+        "android_client_info": {
+          "package_name": "app.edsghot.busunamba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfuoLk0cXwfPllUjf30MNcT3--n0eqefY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875640558081:android:1692fb131bc49bdcd76600",
+        "android_client_info": {
+          "package_name": "com.edsghot.busunamba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfuoLk0cXwfPllUjf30MNcT3--n0eqefY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
